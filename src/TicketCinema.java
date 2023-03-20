@@ -9,7 +9,7 @@ public class TicketCinema {
         int choice;
         boolean cont = true;
         do {
-            System.out.println("****************JAVA-HACKATHON-05-ADVANCE-1-MENU***************\n" +
+            System.out.println("****************JAVA-HACKATHON-05-ADVANCE-3-MENU***************\n" +
                     "1. Nhập tên khách hàng chờ mua vé xem phim\n" +
                     "2. Khách tiếp theo\n" +
                     "3. Thoát");
